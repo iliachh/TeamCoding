@@ -48,6 +48,9 @@ BEGIN
                THEN
                   NULL;
             END;
+            
+            
+            -----------------------------jhyjyyyhtyht
          ELSE
             BEGIN
                INSERT INTO dictword
